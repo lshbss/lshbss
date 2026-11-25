@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- Анімований заголовок -->
-<a href="https://github.com/lshbss">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Justin+%F0%9F%91%8B;Senior+Full-Stack+%26+Backend+Engineer;Scaling+Fintech+Payments+to+12%2C000+RPS;Cutting+DB+Latency+by+%3E80%25+in+Production;Building+Fault-Tolerant+RAG+%26+AI+Pipelines" alt="Typing SVG" />
-</a>
+```bash
+$ whoami
+> Justin | Senior Full-Stack & Distributed Systems Engineer
+
+$ metrics --prod
+> 12,000+ RPS Payment Ledgers  |  >80% DB Latency Reduction  |  Zero-Delta Reconciliation
 
 📍 **Lviv, Ukraine** &nbsp;|&nbsp; 🎓 **M.Sc. in Computer Programming** @ Ukrainian Catholic University
 
