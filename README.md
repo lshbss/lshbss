@@ -70,10 +70,10 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Architecture** | `Node.js` `NestJS` `TypeScript` `Express.js` `GraphQL` `REST` `BullMQ` `Transactional Outbox` |
-| **Data & Caching** | `PostgreSQL (Read Replicas, Keyset Pagination)` `MongoDB` `Redis Cluster` `Lua Scripting` |
-| **AI & Validation** | `OpenAI API` `Hybrid RAG` `Token Streaming` `Zod` `Automated Regression Evals` |
-| **Frontend & Infra** | `React` `Next.js` `AWS (S3, CloudWatch)` `Docker` `GitHub Actions` `k6` `Playwright` `Prometheus` `Grafana` `Sentry` |
+| **Backend & Architecture** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/BullMQ-FF6F00?style=flat-square" /> |
+| **Data & Caching** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> |
+| **AI & Validation** | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-10A37F?style=flat-square" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" /> |
+| **Frontend & Infra** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" /> |
 
 ---
 
