@@ -111,3 +111,10 @@ const principles = {
     </td>
   </tr>
 </table>
+<br/>
+
+<div align="center">
+  <blockquote>
+    <i>"Debugging production on Friday is like fighting in the 5th round — pure adrenaline, zero stamina left, and one wrong move costs you the belt."</i>
+  </blockquote>
+</div>
