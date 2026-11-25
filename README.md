@@ -80,4 +80,8 @@
 
 ```ts
 const systemDesignRules = {
-  ledgerIntegrity: "Append-only entries + idempotency keys >
+  ledgerIntegrity: "Append-only entries + idempotency keys > mutable balances",
+  queryPerformance: "Verify with EXPLAIN ANALYZE, paginate via keyset, cache hot reads",
+  llmReliability:  "Strict Zod output contracts + nightly regression evals",
+  productionOps:   "If it isn't load-tested with k6 and traced in Grafana, it isn't done",
+};
