@@ -26,12 +26,12 @@ Currently open to **Senior Full-Stack / Backend Engineering roles** and **high-i
 
 ---
 
-### ⚡ What I Do & Production Impact
+### 🏗 Core Domains & Production Impact
 
-- **High-Throughput Fintech & Payments:** Architected append-only ledgers, strict payout state machines, and idempotent payment APIs scaling up to **12,000 RPS** (`p95: 110–130ms`) with automated zero-delta nightly reconciliation.
-- **Database & Latency Optimization:** Reduced slow query latencies by **>80%** (`2.6s → 410ms`) via PostgreSQL read-replica routing, keyset pagination, MongoDB compound indexes, and Redis Cluster caching (`90%+` hit ratio) with atomic Lua rate-limiting.
-- **Production AI & RAG Pipelines:** Engineered fault-tolerant retrieval workflows, token streaming, strict Zod schema validation, and nightly regression evals with field-level diffing to catch model/prompt drift.
-- **Reliability & Observability:** End-to-end production ownership across AWS (S3, CloudWatch), Docker, GitHub Actions CI/CD, k6 load testing, Prometheus, Grafana, and Sentry.
+| 💸 Fintech & Payments | ⚡ Highload & Databases | 🤖 Production AI & RAG |
+| :--- | :--- | :--- |
+| Append-only double-entry ledgers, strict payout state machines & idempotent APIs | Cut slow query latencies by **>80%** (`2.6s → 410ms`) via read-replica routing & keyset pagination | Fault-tolerant retrieval workflows, token streaming & strict **Zod** schema enforcement |
+| Scaled core throughput up to **12,000 RPS** (`p95: 110–130ms`) with zero-delta reconciliation | Redis Cluster caching (`90%+` hit ratio) with atomic **Lua** rate-limiting & MongoDB compound indexes | Nightly regression evals with field-level diffing to catch model & prompt drift early |
 
 ---
 
