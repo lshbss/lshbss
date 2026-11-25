@@ -76,8 +76,8 @@
 
 ---
 
-### 📜 Certifications & Availability
+### 🧠 Engineering Philosophy
 
-- **AWS Certified Developer – Associate** — *Amazon Web Services*
-- **Advanced TypeScript: Engineering & Architecture**
-- **Currently Open To:** Senior Backend / Full-Stack Engineering roles (Fintech, Highload, AI Systems) & architectural consulting — reach out via **[LinkedIn](https://www.linkedin.com/in/lshbss-undefined-366b05451/)**.
+```ts
+const systemDesignRules = {
+  ledgerIntegrity: "Append-only entries + idempotency keys >
