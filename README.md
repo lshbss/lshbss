@@ -79,9 +79,9 @@
 ### 🧠 Engineering Philosophy
 
 ```ts
-const systemDesignRules = {
-  ledgerIntegrity: "Append-only entries + idempotency keys > mutable balances",
-  queryPerformance: "Verify with EXPLAIN ANALYZE, paginate via keyset, cache hot reads",
-  llmReliability:  "Strict Zod output contracts + nightly regression evals",
-  productionOps:   "If it isn't load-tested with k6 and traced in Grafana, it isn't done",
+const principles = {
+  ledger:   "Append-only entries + idempotency keys > mutable balances",
+  database: "EXPLAIN ANALYZE first, keyset pagination, hot reads in Redis",
+  ai:       "Strict Zod schemas + nightly regression evals in prod",
+  ops:      "Load-tested with k6, traced & alerted via Grafana",
 };
