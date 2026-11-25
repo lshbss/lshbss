@@ -85,6 +85,7 @@ const principles = {
   ai:       "Strict Zod schemas + nightly regression evals in prod",
   ops:      "Load-tested with k6, traced & alerted via Grafana",
 };
+```
 
 ---
 
