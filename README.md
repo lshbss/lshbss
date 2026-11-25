@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Terminal" />
 
   <h1>Justin &mdash; Distributed Systems &amp; Backend Engineer</h1>
 
@@ -82,4 +81,9 @@
 - **AWS Certified Developer – Associate** — *Amazon Web Services*
 - **Advanced TypeScript: Engineering & Architecture**
 - **Currently Open To:** Senior Backend / Full-Stack Engineering roles (Fintech, Highload, AI Systems) & architectural consulting — reach out via **[LinkedIn](https://www.linkedin.com/in/lshbss-undefined-366b05451/)**.
-- 
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Terminal" />
+</div>
