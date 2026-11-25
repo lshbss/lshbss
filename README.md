@@ -44,3 +44,25 @@ const engineeringMindset = {
   aiInProd:      "Never trust raw LLM output — enforce Zod schemas & nightly evals",
   observability: "If it's not traced with correlation IDs and alerts, it's not prod-ready",
 };
+🎯 System Design & Core Engineering Skills
+Distributed Systems & Fintech: Double-Entry Ledger Modeling, Idempotency Keys, Transactional Outbox Pattern, Saga / State Machines, Event-Driven Microservices, Zero-Delta Reconciliation.
+
+Database Engineering: PostgreSQL Query Plan Optimization (EXPLAIN ANALYZE), Read-Replica Routing, Keyset Pagination, Connection Pooling, MongoDB Compound Indexing, Redis Cluster & Atomic Lua Scripting.
+
+AI & LLM Systems: Hybrid RAG Retrieval, Semantic Chunking, Token Streaming (SSE), Structured Output Validation (Zod), Prompt Versioning & Automated Regression Evals.
+
+Production Operations: Load & Stress Testing (k6), Distributed Tracing, Prometheus Metrics, Grafana Dashboards, CI/CD Pipelines (GitHub Actions), Containerization (Docker) & AWS Cloud Infrastructure.
+
+🛠 Tech Stack
+Backend & Distributed Systems
+
+Databases & Caching
+
+AI Engineering & Validation
+
+Frontend, Cloud & Observability
+
+📜 Certifications
+AWS Certified Developer – Associate — Amazon Web Services
+
+Advanced TypeScript: Engineering & Architecture
