@@ -1,22 +1,12 @@
 <div align="center">
 
-```bash
-$ whoami
-> Justin | Senior Full-Stack & Distributed Systems Engineer
-
-$ metrics --prod
-> 12,000+ RPS Payment Ledgers  |  >80% DB Latency Reduction  |  Zero-Delta Reconciliation
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EA043&height=170&section=header&text=Justin%20%7C%20Systems%20%26%20Backend&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=12%2C000%2B%20RPS%20Fintech%20%E2%80%A2%20%3E80%25%20Latency%20Cut%20%E2%80%A2%20Production%20RAG&descSize=15&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EA043&height=170&section=header&text=Justin%20%7C%20Systems%20%26%20Backend&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=12%2C000%2B%20RPS%20Fintech%20%E2%80%A2%20%3E80%25%20Latency%20Cut%20%E2%80%A2%20Production%20RAG&descSize=15&descAlignY=60)" width="100%" />
 
 📍 **Lviv, Ukraine** &nbsp;|&nbsp; 🎓 **M.Sc. in Computer Programming** @ Ukrainian Catholic University
 
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Senior_Roles_%26_Consulting-2EA043?style=for-the-badge&logo=target&logoColor=white)](https://www.linkedin.com/in/lshbss-undefined-366b05451/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lshbss-undefined-366b05451/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lshbss)
-
-<br/>
-
-<!-- Атмосферна гіфка розробника -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding animation" />
 
 </div>
 
