@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EA043&height=170&section=header&text=Justin%20%7C%20Systems%20%26%20Backend&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=12%2C000%2B%20RPS%20Fintech%20%E2%80%A2%20%3E80%25%20Latency%20Cut%20%E2%80%A2%20Production%20RAG&descSize=15&descAlignY=60" width="100%" alt="Header Banner" />
+# Justin — Backend & Distributed Systems Engineer
+
+> *"Building payment ledgers that never lose a cent at 12,000 RPS, shaving 80%+ off slow DB queries, and keeping LLM pipelines deterministic in production."*
 
 📍 **Lviv, Ukraine** &nbsp;|&nbsp; 🎓 **M.Sc. in Computer Programming** @ Ukrainian Catholic University
 
