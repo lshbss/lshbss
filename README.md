@@ -1,68 +1,78 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Terminal" />
 
-# Justin — Backend & Distributed Systems Engineer
+  <h1>Justin &mdash; Distributed Systems &amp; Backend Engineer</h1>
 
-> *"Building payment ledgers that never lose a cent at 12,000 RPS, shaving 80%+ off slow DB queries, and keeping LLM pipelines deterministic in production."*
+  <p>
+    <b>12,000+ RPS Fintech Ledgers</b> &bull; <b>&gt;80% DB Latency Reduction</b> &bull; <b>Deterministic AI Pipelines</b>
+  </p>
 
-📍 **Lviv, Ukraine** &nbsp;|&nbsp; 🎓 **M.Sc. in Computer Programming** @ Ukrainian Catholic University
+  <p>
+    📍 Lviv, Ukraine &nbsp;&bull;&nbsp; 🎓 M.Sc. in Computer Programming (UCU) &nbsp;&bull;&nbsp; 🟢 <b>Open to Senior Roles &amp; Consulting</b>
+  </p>
 
-[![Open to Work](https://img.shields.io/badge/Status-Open_to_Senior_Roles_%26_Consulting-2EA043?style=for-the-badge&logo=target&logoColor=white)](https://www.linkedin.com/in/lshbss-undefined-366b05451/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lshbss-undefined-366b05451/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lshbss)
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding animation" />
-
+  <p>
+    <a href="https://www.linkedin.com/in/lshbss-undefined-366b05451/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/lshbss">
+      <img src="https://img.shields.io/badge/GitHub-lshbss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🤝 Open to Opportunities
+### ⚡ Production Impact & Architecture
 
-Currently open to **Senior Full-Stack / Backend Engineering roles** and **high-impact consulting projects** (Remote / Worldwide):
-- **Core Focus:** High-throughput distributed backends, fintech payment systems, database performance tuning, and production AI / RAG pipelines.
-- **Best Way to Reach Out:** Drop a message on [LinkedIn](https://www.linkedin.com/in/lshbss-undefined-366b05451/) — happy to discuss system architecture, scaling challenges, or open roles.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💸 High-Throughput Fintech Core</h4>
+      <ul>
+        <li>Engineered append-only double-entry ledgers &amp; strict payout state machines.</li>
+        <li>Scaled payment APIs to <b>12,000 RPS</b> (<code>p95: 110–130ms</code>) with idempotency keys.</li>
+        <li>Built automated zero-delta nightly reconciliation pipelines.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Database &amp; Latency Engineering</h4>
+      <ul>
+        <li>Cut slow query latency by <b>&gt;80%</b> (<code>2.6s &rarr; 410ms</code>) via read-replica routing &amp; keyset pagination.</li>
+        <li>Designed <b>Redis Cluster</b> caching (<code>90%+</code> hit ratio) with atomic <b>Lua</b> rate-limiting.</li>
+        <li>Tuned high-volume MongoDB workloads using targeted compound indexes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Deterministic AI &amp; RAG Systems</h4>
+      <ul>
+        <li>Built fault-tolerant hybrid RAG retrieval workflows with SSE token streaming.</li>
+        <li>Enforced strict runtime output contracts via <b>Zod</b> schemas.</li>
+        <li>Automated nightly regression evals with field-level diffing to catch model drift.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡 Reliability &amp; Observability</h4>
+      <ul>
+        <li>Full production ownership across <b>AWS</b> (S3, CloudWatch) &amp; Dockerized microservices.</li>
+        <li>Load &amp; stress verification with <b>k6</b> before major releases.</li>
+        <li>End-to-end telemetry via Prometheus, Grafana, Sentry &amp; GitHub Actions CI/CD.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏗 Core Domains & Production Impact
+### 🧩 Typical Production Blueprint
 
-| 💸 Fintech & Payments | ⚡ Highload & Databases | 🤖 Production AI & RAG |
-| :--- | :--- | :--- |
-| Append-only double-entry ledgers, strict payout state machines & idempotent APIs | Cut slow query latencies by **>80%** (`2.6s → 410ms`) via read-replica routing & keyset pagination | Fault-tolerant retrieval workflows, token streaming & strict **Zod** schema enforcement |
-| Scaled core throughput up to **12,000 RPS** (`p95: 110–130ms`) with zero-delta reconciliation | Redis Cluster caching (`90%+` hit ratio) with atomic **Lua** rate-limiting & MongoDB compound indexes | Nightly regression evals with field-level diffing to catch model & prompt drift early |
-
----
-
-### 🧠 Engineering Principles
-
-```ts
-const engineeringMindset = {
-  dataIntegrity: "Append-only ledgers + idempotency keys > optimistic assumptions",
-  performance:   "Measure with k6, push filtering to DB, cache hot paths in Redis",
-  aiInProd:      "Never trust raw LLM output — enforce Zod schemas & nightly evals",
-  observability: "If it's not traced with correlation IDs and alerts, it's not prod-ready",
-};
-🎯 System Design & Core Engineering Skills
-Distributed Systems & Fintech: Double-Entry Ledger Modeling, Idempotency Keys, Transactional Outbox Pattern, Saga / State Machines, Event-Driven Microservices, Zero-Delta Reconciliation.
-
-Database Engineering: PostgreSQL Query Plan Optimization (EXPLAIN ANALYZE), Read-Replica Routing, Keyset Pagination, Connection Pooling, MongoDB Compound Indexing, Redis Cluster & Atomic Lua Scripting.
-
-AI & LLM Systems: Hybrid RAG Retrieval, Semantic Chunking, Token Streaming (SSE), Structured Output Validation (Zod), Prompt Versioning & Automated Regression Evals.
-
-Production Operations: Load & Stress Testing (k6), Distributed Tracing, Prometheus Metrics, Grafana Dashboards, CI/CD Pipelines (GitHub Actions), Containerization (Docker) & AWS Cloud Infrastructure.
-
-🛠 Tech Stack
-Backend & Distributed Systems
-
-Databases & Caching
-
-AI Engineering & Validation
-
-Frontend, Cloud & Observability
-
-📜 Certifications
-AWS Certified Developer – Associate — Amazon Web Services
-
-Advanced TypeScript: Engineering & Architecture
+```mermaid
+flowchart LR
+    Client([Client / Webhook]) --> Edge[Redis Lua Rate Limiter]
+    Edge --> API[NestJS Idempotent API]
+    API --> PG[(PostgreSQL Append-Only Ledger)]
+    API --> Cache[(Redis Cluster 90%+ Hit)]
+    PG --> Outbox[Transactional Outbox / BullMQ]
+    Outbox --> Workers[Reconciliation & AI Eval Workers]
