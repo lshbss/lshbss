@@ -19,7 +19,9 @@
     </a>
   </p>
 </div>
+<br/>
 
+> *"Software architecture is like fighting — everyone has a plan until the traffic hits 12,000 RPS."*
 ---
 
 ### ⚡ Production Impact & Architecture
