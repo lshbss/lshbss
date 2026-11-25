@@ -66,13 +66,19 @@
 
 ---
 
-### 🧩 Typical Production Blueprint
+### 🛠 Engineering Stack
 
-```mermaid
-flowchart LR
-    Client([Client / Webhook]) --> Edge[Redis Lua Rate Limiter]
-    Edge --> API[NestJS Idempotent API]
-    API --> PG[(PostgreSQL Append-Only Ledger)]
-    API --> Cache[(Redis Cluster 90%+ Hit)]
-    PG --> Outbox[Transactional Outbox / BullMQ]
-    Outbox --> Workers[Reconciliation & AI Eval Workers]
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Architecture** | `Node.js` `NestJS` `TypeScript` `Express.js` `GraphQL` `REST` `BullMQ` `Transactional Outbox` |
+| **Data & Caching** | `PostgreSQL (Read Replicas, Keyset Pagination)` `MongoDB` `Redis Cluster` `Lua Scripting` |
+| **AI & Validation** | `OpenAI API` `Hybrid RAG` `Token Streaming` `Zod` `Automated Regression Evals` |
+| **Frontend & Infra** | `React` `Next.js` `AWS (S3, CloudWatch)` `Docker` `GitHub Actions` `k6` `Playwright` `Prometheus` `Grafana` `Sentry` |
+
+---
+
+### 📜 Certifications & Availability
+
+- **AWS Certified Developer – Associate** — *Amazon Web Services*
+- **Advanced TypeScript: Engineering & Architecture**
+- **Currently Open To:** Senior Backend / Full-Stack Engineering roles (Fintech, Highload, AI Systems) & architectural consulting — reach out via **[LinkedIn](https://www.linkedin.com/in/lshbss-undefined-366b05451/)**.
