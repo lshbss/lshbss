@@ -85,3 +85,26 @@ const principles = {
   ai:       "Strict Zod schemas + nightly regression evals in prod",
   ops:      "Load-tested with k6, traced & alerted via Grafana",
 };
+
+---
+
+### 📜 Certifications & Availability
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Verified Credentials</h4>
+      <ul>
+        <li><b>AWS Certified Developer – Associate</b> (Amazon Web Services)</li>
+        <li><b>Advanced TypeScript: Engineering &amp; Architecture</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 Open for Collaboration</h4>
+      <ul>
+        <li>Senior Backend / Full-Stack roles (Fintech, Highload, AI)</li>
+        <li>System architecture &amp; DB optimization consulting &rarr; <a href="https://www.linkedin.com/in/lshbss-undefined-366b05451/"><b>LinkedIn</b></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
